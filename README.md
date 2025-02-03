@@ -20,6 +20,6 @@ Gestion de projet : Git/GitHub
 
 LinkedIn : linkedin.com/in/theo-chelly
 
-Email : theo.chelly@example.com
+Email : chellytheo@gmail.com
 
 Merci de visiter mon profil ! 🚀
