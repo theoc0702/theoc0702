@@ -8,9 +8,9 @@ Je suis un développeur web frontend en 2e année de Bachelor à l'IPI. Passionn
 
 HTML, CSS, JavaScript
 
-Frameworks : React, Angular
+Frameworks : React, Angular, symfony
 
-Backend : Java, Spring Boot, MySql
+Backend : Java, Spring Boot, PhP
 
 Base de données : SSMS
 
