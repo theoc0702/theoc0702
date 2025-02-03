@@ -1,16 +1,25 @@
-## Hi there 👋
+##👋 Salut, moi c'est Théo Chelly !
 
-<!--
-**theoc0702/theoc0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#💻 Qui suis-je ?
 
-Here are some ideas to get you started:
+Je suis un développeur web frontend en 2e année de Bachelor à l'IPI. Passionné par le code, l'automobile, les voyages et le basketball, je cherche actuellement un stage de 2 à 4 mois à partir du 17 février dans le développement frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🛠 Compétences
+
+HTML, CSS, JavaScript
+
+Frameworks : React, Svelte (remplacé par Android Studio)
+
+Backend : Java, Spring Boot
+
+Base de données : SSMS
+
+Gestion de projet : Git/GitHub
+
+#📫 Me contacter
+
+LinkedIn : linkedin.com/in/theo-chelly
+
+Email : theo.chelly@example.com
+
+Merci de visiter mon profil ! 🚀
