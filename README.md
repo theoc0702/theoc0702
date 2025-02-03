@@ -27,7 +27,7 @@ Gestion de projet : <br>
 
 ## 📫 Me contacter
 
-**LinkedIn** : www.linkedin.com/in/théo-chelly-7ab668308
+[**LinkedIn**](www.linkedin.com/in/théo-chelly-7ab668308)
 
 **Email** : chellytheo@gmail.com
 
