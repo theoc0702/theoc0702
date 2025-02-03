@@ -2,15 +2,15 @@
 
 ## 💻 Qui suis-je ?
 
-Je suis un développeur web frontend en 2e année de Bachelor à l'IPI. Passionné par le code, l'automobile, les voyages et le basketball, je cherche actuellement un stage de 2 à 4 mois à partir du 17 février dans le développement frontend.
+Je suis un développeur web frontend en 2e année de Bachelor à l'IPI. Passionné par le code, l'automobile, les voyages et le basketball
 
 ## 🛠 Compétences
 
 HTML, CSS, JavaScript
 
-Frameworks : React, Svelte (remplacé par Android Studio)
+Frameworks : React, Angular
 
-Backend : Java, Spring Boot
+Backend : Java, Spring Boot, MySql
 
 Base de données : SSMS
 
@@ -18,8 +18,8 @@ Gestion de projet : Git/GitHub
 
 ## 📫 Me contacter
 
-LinkedIn : www.linkedin.com/in/théo-chelly-7ab668308
+**LinkedIn** : www.linkedin.com/in/théo-chelly-7ab668308
 
-Email : chellytheo@gmail.com
+**Email** : chellytheo@gmail.com
 
 Merci de visiter mon profil ! 🚀
